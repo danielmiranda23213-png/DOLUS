@@ -1,0 +1,7 @@
+*.autosave
+DOLUS/data/save_slot_*.json
+DOLUS/data/feria_ranking.json
+DOLUS/data/feria_ranking.csv
+DOLUS/application.*
+.DS_Store
+Thumbs.db
